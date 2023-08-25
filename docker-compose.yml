@@ -1,6 +1,5 @@
-version : "3.3"
 services :
   web :
-     image : sanjitscorps/notes-app:v2
+     image: "sanjitscorps/notes-app:v2"
      ports :
          - "8000:8000"
