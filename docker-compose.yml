@@ -1,5 +1,5 @@
 services :
   web :
-     image: "sanjitscorps/notes-app:v2"
+     image: "sanjitscorps/notes-app:v3"
      ports :
          - "8000:8000"
